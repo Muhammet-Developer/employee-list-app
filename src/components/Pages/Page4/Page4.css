@@ -1,0 +1,31 @@
+.card{
+    background-color: rgb(190, 166, 166);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-left: 10vh;
+    margin-bottom: 5px;
+    text-align: left;
+    border-radius: 10px;
+}
+img{
+    margin: 10px;
+    border-radius: 50%;
+    object-fit: contain;
+    width: 100px;
+    height: 100px;
+}
+.words{
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1vw
+}
+.employee{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lightWords{
+    font-weight: 100;
+    
+}
